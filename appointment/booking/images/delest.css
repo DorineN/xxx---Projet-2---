@@ -1,0 +1,19 @@
+html{background:#e1ebef;}
+body{font-family:Arial,Helvetica,Verdana;font-size:1em;}
+a{font-size:0.75em;color:black;text-decoration:none;background:url(/portal/erreur/images/puce.jpg) no-repeat left center;color:#205488;padding-left:14px;font-weight:bold;}
+a:hover{text-decoration:underline;}
+#main{background:white;width:100%;max-width:1200px;margin:20px auto;-webkit-border-radius:24px;-moz-border-radius:24px;border-radius:24px;text-align:center;padding-bottom:30px;}
+#main > .inner{width:96%;max-width:900px;margin:0px auto;padding-bottom:20px;text-align:left;}
+.left,.right{width:48%;float:left;min-width:300px;padding-bottom:20px;border-top:1px solid #ebebeb;}
+.inner{padding-bottom:20px;}
+.left{margin-right:2%;clear:left;}
+.cb{clear:both;}
+#logo{margin:20px auto;max-width:100%;height:auto;}
+#intro{background:#ebebeb;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;padding:2%;}
+h5{text-align:left;font-size:0.75em;color:#333;margin-bottom:1em;}
+h3{text-align:center;border-top:1px solid #cccccc;margin:10px auto;padding:10px 0px;clear:both;}
+.doc,.part,.pro{margin-top:40px;clear:both;padding-bottom:30px;}
+.pro h3{border-color:#ff9900;}
+.part h3{border-color:#84ba39;}
+.doc h3{border-color:#2e9cdb;}
+.txt{color:#666;font-style:italic;font-size:0.7em;margin-bottom:10px;}
